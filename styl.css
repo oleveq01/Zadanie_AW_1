@@ -1,0 +1,124 @@
+body{
+	background-color: grey;
+
+}
+#center1{
+	background-color: white;
+	width: 80%;
+	height: 800px;
+	margin-top: 50px;
+	margin-bottom: 120px;
+	margin-left: 10%;
+	box-shadow: 0 10px 100px black;
+	padding-top: 50px;
+	border-radius: 90px;
+	
+}
+#naglowek{
+	width: 90%;
+	background-color: grey;
+	margin-left: 5%;
+	text-align: center;
+	height: 190px;
+	font-size: 70px;
+	color: black;
+	
+	border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
+	
+}
+#naglowek::first-letter{
+	font-size: 200%;
+}
+#menu{
+	width: 90%;
+	height: 100px;
+	
+	margin-left: 5%;
+	margin-top: 5px;
+}
+a{
+	text-decoration: none;
+}
+#ADIM{
+	width: 49%;
+	height: 100%;
+	background-color: grey;
+	float: left;
+	text-align:center;
+	font-size: 70px;
+	padding-top: 1%;
+	font-weight: bold;
+	border-radius: 5px;
+	color:black;
+}
+#AW{
+	width: 49%;
+	height: 100%;
+	background-color: grey;
+	float: left;
+	text-align:center;
+	margin-left: 2%;
+	font-size: 70px;
+	padding-top: 1%;
+	font-weight: bold;
+	border-radius: 5px;
+	color:black;
+}
+#menu_tekst{
+	background-color: rgb(212, 212, 212);
+	width: 90%;
+	height: 380px;
+	margin-top: 50px;
+	margin-left:5%;
+	border-bottom-left-radius: 80px;
+	border-bottom-right-radius: 80px;
+	
+	padding-top: 20px;
+	border-top-right-radius: 80px;
+	border-top-left-radius: 80px;
+}
+#menu_tekst:hover{
+	box-shadow: 0 20px 100px #555555;
+}
+#ADIM:hover{
+	color:white;
+	box-shadow: 0 20px 100px black;
+}
+#AW:hover{
+	color:white;
+	box-shadow: 0 20px 100px black;
+}
+
+#WwM{
+	background-color: rgb(211, 211, 211);
+	border-radius: 10px;
+	margin-left: 2.5%;
+	width: 95%;
+	text-align:center;
+	font-size: 350%;
+	color: lavender;
+	height: 80px;
+	font-weight: bold;
+	margin-top: 30px;
+}
+#WwM:hover{
+	color: black;
+	background-color: white;
+	box-shadow: 0 20px 100px #555555;
+}
+#WwMALL{
+	background-color:rgb(255, 255, 255);
+	color: rgb(212, 212, 212);
+	width:100%;
+	text-align: center;
+	height: 300px;
+	border-radius: 80px;
+}
+#WwMALL:hover{
+	color: black;
+	background-color: rgb(255, 255, 255);
+}
+#h2_121{
+	font-size: 270%;
+}

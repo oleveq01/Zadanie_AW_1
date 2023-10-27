@@ -1,0 +1,144 @@
+body{
+	background-color: grey;
+
+}
+#center1{
+	background-color: white;
+	width: 80%;
+	height: 900px;
+	margin-top: 50px;
+	margin-bottom: 120px;
+	margin-left: 10%;
+	box-shadow: 0 10px 100px black;
+	padding-top: 50px;
+	border-radius: 90px;
+	
+}
+#naglowek{
+	width: 90%;
+	background-color: grey;
+	margin-left: 5%;
+	text-align: center;
+	
+	height: 190px;
+	font-size: 70px;
+	color: black;
+	
+	border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
+	
+}
+#naglowek::first-letter{
+	font-size: 200%;
+}
+#menu{
+	width: 90%;
+	height: 100px;
+	
+	margin-left: 5%;
+	margin-top: 5px;
+}
+a{
+	text-decoration: none;
+}
+#ADIM{
+	width: 49%;
+	height: 100%;
+	background-color: grey;
+	float: left;
+	text-align:center;
+	font-size: 70px;
+	padding-top: 1%;
+	font-weight: bold;
+	border-radius: 5px;
+	color:black;
+}
+#AW{
+	width: 49%;
+	height: 100%;
+	background-color: grey;
+	float: left;
+	text-align:center;
+	margin-left: 2%;
+	font-size: 70px;
+	padding-top: 1%;
+	font-weight: bold;
+	border-radius: 5px;
+	color:black;
+}
+#menu_tekst{
+	background-color: #EBEBEB;
+	width: 90%;
+	height: 2600px;
+	margin-top: 50px;
+	margin-left:5%;
+	border-bottom-left-radius: 90px;
+	border-bottom-right-radius: 90px;
+	box-shadow: 0 20px 100px #B7B7B7;
+	
+}
+#ADIM:hover{
+	color:white;
+	box-shadow: 0 30px 100px black;
+}
+#AW:hover{
+	color:white;
+	box-shadow: 0 20px 100px black;
+}
+#spis_tresci{
+	width: 90%;
+	height: 80px;
+	background-color: grey;
+	margin-top: 80px;
+	margin-left: 5%;
+	padding-top: 45px;
+	text-align: center;
+	font-size: 200%;
+	border-radius: 20px;
+	
+}
+#aw_ogol{
+	color: grey;
+	width: 82%;
+	background-color: lavender;
+	border-radius: 20px;
+	margin-top: 30px;
+	margin-left: 9%;
+	text-align: center;
+	height: 50px;
+	font-size: 150%;
+	padding-top: 25px;
+}
+#aw_ogol:hover{
+	color: black;
+}
+#aw_deskopowe{
+	color: grey;
+	width: 82%;
+	background-color: lavender;
+	border-radius: 20px;
+	margin-top: 30px;
+	margin-left: 9%;
+	text-align: center;
+	height: 50px;
+	font-size: 150%;
+	padding-top: 25px;
+}
+#aw_deskopowe:hover{
+	color: black;
+}
+#aw_mobilne{
+	color: grey;
+	width: 82%;
+	background-color: lavender;
+	border-radius: 20px;
+	margin-top: 30px;
+	margin-left: 9%;
+	text-align: center;
+	height: 50px;
+	font-size: 150%;
+	padding-top: 25px;
+}
+#aw_mobilne:hover{
+	color: black;
+}

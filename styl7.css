@@ -1,0 +1,132 @@
+body{
+	background-color: grey;
+
+}
+#center1{
+	background-color: white;
+	width: 80%;
+	height: 1580px;
+	margin-top: 50px;
+	margin-bottom: 120px;
+	margin-left: 10%;
+	box-shadow: 0 10px 100px black;
+	padding-top: 50px;
+	border-radius: 90px;
+	
+}
+#naglowek{
+	width: 90%;
+	background-color: grey;
+	margin-left: 5%;
+	text-align: center;
+	
+	height: 190px;
+	font-size: 70px;
+	color: black;
+	
+	border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
+	
+}
+#naglowek::first-letter{
+	font-size: 200%;
+}
+#menu{
+	width: 90%;
+	height: 100px;
+	
+	margin-left: 5%;
+	margin-top: 5px;
+}
+a{
+	text-decoration: none;
+}
+#ADIM{
+	width: 49%;
+	height: 100%;
+	background-color: grey;
+	float: left;
+	text-align:center;
+	font-size: 70px;
+	padding-top: 1%;
+	font-weight: bold;
+	border-radius: 5px;
+	color:black;
+}
+#AW{
+	width: 49%;
+	height: 100%;
+	background-color: grey;
+	float: left;
+	text-align:center;
+	margin-left: 2%;
+	font-size: 70px;
+	padding-top: 1%;
+	font-weight: bold;
+	border-radius: 5px;
+	color:black;
+}
+#menu_tekst{
+	background-color: #EBEBEB;
+	width: 90%;
+	height: 1300px;
+	margin-top: 50px;
+	margin-left:5%;
+	border-bottom-left-radius: 90px;
+	border-bottom-right-radius: 90px;
+	box-shadow: 0 20px 100px #B7B7B7;
+	
+}
+#ADIM:hover{
+	color:white;
+	box-shadow: 0 30px 100px black;
+}
+#AW:hover{
+	color:white;
+	box-shadow: 0 20px 100px black;
+}
+#A_desk{
+	background-color: rgb(179, 179, 179);
+	color: black;
+	width: 90%;
+	margin-left: 5%;
+	border-radius: 10px;
+	height: 100px;
+	margin-top: 50px;
+	text-align: center;
+	padding-top: 18px;
+	margin-top: 40px;
+}
+#A_desk_tekst{
+	background-color:rgb(179, 179, 179);
+	height: 1048px ;
+	border-bottom-left-radius: 80px;
+	border-bottom-right-radius: 80px;
+	padding-left: 140px;
+	margin-top: 40px;
+	padding-right: 80px;
+	padding-top: 40px;
+}
+#backadim{
+	background-color: grey;
+	text-align:center;
+	color:white;
+	width:220px;
+	height:60px;
+	border-radius: 40px;
+	padding-top: 30px;
+	font-size: 150%;
+	font-weight: bold;
+	margin-top: 40px;
+}
+#backadim:hover{
+	background-color: white;
+	color:grey;
+	box-shadow: 0 1px 50px black;
+}
+#gruby{
+	font-size: 120%;
+}
+#hcbcb{
+	font-size: 120%;
+}
